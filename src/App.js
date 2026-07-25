@@ -5,22 +5,6 @@ import photo from "./assets/photo.jpg";
 
 
 function App() {
-  const copyToClipboard = (text, e) => {
-    e.preventDefault();
-    e.stopPropagation();
-    navigator.clipboard
-      .writeText(text)
-      .then(() => {
-        const btn = e.currentTarget;
-        const original = btn.textContent;
-        btn.textContent = "✅";
-        setTimeout(() => {
-          btn.textContent = original;
-        }, 1200);
-      })
-      .catch((err) => console.error("Copy failed:", err));
-  };
-
   useEffect(() => {
     // ---------- Scroll reveal ----------
     const revealEls = document.querySelectorAll(".reveal, .reveal-stagger");
