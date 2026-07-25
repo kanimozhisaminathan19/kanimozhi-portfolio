@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kanimozhi-portfolio/static/css/main.e5ba60d6.css",
+    "main.js": "/kanimozhi-portfolio/static/js/main.60516171.js",
+    "static/js/453.494e8fd6.chunk.js": "/kanimozhi-portfolio/static/js/453.494e8fd6.chunk.js",
+    "static/media/photo.jpg": "/kanimozhi-portfolio/static/media/photo.5d7691852f0b9580e239.jpg",
+    "index.html": "/kanimozhi-portfolio/index.html",
+    "main.e5ba60d6.css.map": "/kanimozhi-portfolio/static/css/main.e5ba60d6.css.map",
+    "main.60516171.js.map": "/kanimozhi-portfolio/static/js/main.60516171.js.map",
+    "453.494e8fd6.chunk.js.map": "/kanimozhi-portfolio/static/js/453.494e8fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ba60d6.css",
+    "static/js/main.60516171.js"
+  ]
+}
